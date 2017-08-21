@@ -1,0 +1,20 @@
+<config>    
+    <modules>
+        <Equaltrue_Autoadminlogin>
+            <version>0.1.0</version>
+        </Equaltrue_Autoadminlogin>
+    </modules>
+		
+    <admin>
+        <routers>
+            <adminhtml>
+                <args>
+                    <modules>
+                        <Equaltrue_Autoadminlogin before="Mage_Adminhtml">Equaltrue_Autoadminlogin_Adminhtml</Equaltrue_Autoadminlogin>
+                    </modules>
+                </args>
+            </adminhtml>
+        </routers>
+    </admin>
+	
+</config>

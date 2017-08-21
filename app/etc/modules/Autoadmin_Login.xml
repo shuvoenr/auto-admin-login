@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Equaltrue_Autoadminlogin>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Equaltrue_Autoadminlogin>
+    </modules>
+</config>
