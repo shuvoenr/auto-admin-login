@@ -4,7 +4,7 @@
             <version>0.1.0</version>
         </Equaltrue_Autoadminlogin>
     </modules>
-		
+        
     <admin>
         <routers>
             <adminhtml>
@@ -16,5 +16,5 @@
             </adminhtml>
         </routers>
     </admin>
-	
+    
 </config>
